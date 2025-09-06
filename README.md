@@ -1,2 +1,2 @@
-# maybecode2
+# maybecode 1.0
 Αυτή είναι η πρώτη εκδοση που εφτιαξα για την εφαρμογή μου maybecode μέσω python.
